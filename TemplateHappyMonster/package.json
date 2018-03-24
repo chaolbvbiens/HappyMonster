@@ -1,11 +1,12 @@
 {
-    "name": "HappyMonster_Theme",
+    "name": "HappyMonsterTheme",
     "version": "1.0.0",
     "repository": {
       "type": "git",
-      "url": "https://github.com/chaolbvbiens/HappyMonster.git"
+      "url": "https://github.com/chaolbvbiens/HappyMonster"
     },
     "dependencies": {},
+
     "devDependencies": {
       "browser-sync": "^2.4.0",
       "gulp": "^3.8.11",
